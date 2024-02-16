@@ -6,7 +6,7 @@
 
 
 ###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourvows&layout=compact&theme=react&langs_count=8)](#)
+
 <br clear="both">
 
 ###
